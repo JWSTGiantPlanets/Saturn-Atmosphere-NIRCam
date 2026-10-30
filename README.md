@@ -1,6 +1,8 @@
 # Saturn-Atmosphere-NIRCam
 Supplemental material for Fletcher et al. (2026) - NIRCam observations of Saturn's atmosphere and auroras.
 
+[![DOI](https://zenodo.org/badge/1438810216.svg)](https://doi.org/10.5281/zenodo.23802349)
+
 **L.N. Fletcher, O.R.T. King, M. Garcia-Marin, S.C.A. Toogood, J.D. Nichols, A.A. Simon, M.H. Wong, M.T. Roman, C. Britt, M. Tiscareno, S.N. Milam, H.B. Hammel (2026), Saturn's Atmosphere and Auroras from JWST/NIRCam, submitted to JGR:Planets**
 
 * **Imaging Observations:**  JWST observational data can be downloaded from the MAST archive for [programmes 1247](https://dx.doi.org/10.17909/jnfs-f677) and [9219](https://dx.doi.org/10.17909/48fp-9a16), processed with the JWST Calibration pipeline and PlanetMapper tools, to produce the mapped data in FITS format, but we provide our processed images as .png files in the `images` subdirectory, subdivided by filter and time.  These observations were used in Fig. 1 and Fig. 2,  polar projected in Fig. 6-9, and cylindrically projected in Fig. 11.  Hubble observations can be downloaded directly from the [OPAL archive](https://archive.stsci.edu/prepds/opal/) and were polar-projected in Fig. 10.
